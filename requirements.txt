@@ -1,0 +1,10 @@
+numpy
+scipy
+pandas
+jupyter
+fsspec
+opencv-python
+scikit-learn
+matplotlib
+tensorflow
+keras
